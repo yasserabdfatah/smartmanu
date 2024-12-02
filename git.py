@@ -1,3 +1,3 @@
 #simple code
-python("hellog git")
+python("hello git")
 
